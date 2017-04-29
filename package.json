@@ -1,11 +1,19 @@
 {
   "name": "debts-receipts-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "loader.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cristiano de Souza Vinhal",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReceiptsDebts/receipts-debts-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ReceiptsDebts/receipts-debts-backend/issues"
+  },
+  "homepage": "https://github.com/ReceiptsDebts/receipts-debts-backend#readme",
+  "description": ""
 }
