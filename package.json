@@ -16,7 +16,7 @@
     "url": "https://github.com/ReceiptsDebts/receipts-debts-backend/issues"
   },
   "homepage": "https://github.com/ReceiptsDebts/receipts-debts-backend#readme",
-  "description": "A simple dashboard application to manager debits and credits",
+  "description": "A simple dashboard Restful API using Node, Express and Mongo to manager debits and credits",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",

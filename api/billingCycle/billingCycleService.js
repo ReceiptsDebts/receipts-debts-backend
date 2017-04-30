@@ -13,7 +13,7 @@ function sendErrorsOrNext(req, res, next) {
     let errors = parseErrors(bundle.errors);
     res.status(500).json({errors});
   } else {
-    next()
+    next();
   }
 }
 
